@@ -6,7 +6,7 @@ import './screens/welcome/welcome.dart';
 
 void main() {
   debugShowCheckedModeBanner:
-  false;
+  true;
   runApp(MedicineApp());
   SystemChrome.setSystemUIOverlayStyle(SystemUiOverlayStyle(
       systemNavigationBarColor: Colors.black.withOpacity(0.05),
